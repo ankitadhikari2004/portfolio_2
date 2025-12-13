@@ -41,6 +41,8 @@ import tip from "./tip.png"
 import tictactoe from "./tictactoe.png"
 import tictactoev2 from "./tictactoev2.png"
 import keysensei from "./keysensei.png"
+import cybersafe from "./cybersafe.png"
+import truEstate from "./truEstate.png"
 
 
 export {
@@ -81,5 +83,7 @@ export {
   tip,
   tictactoe,
   tictactoev2,
-  keysensei
+  keysensei,
+  cybersafe,
+  truEstate
 };

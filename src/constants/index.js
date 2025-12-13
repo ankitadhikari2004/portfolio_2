@@ -34,7 +34,9 @@ import {
   tip,
   tictactoe,
   tictactoev2,
-  keysensei
+  keysensei,
+  truEstate,
+  cybersafe
 
 } from "../assets";
 
@@ -227,6 +229,48 @@ const testimonials = [
 
 
 const projects = [
+  {
+    name: "truEstate",
+    description:
+      "created a retail sales management web app with filters .",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "javascrpit",
+        color: "green-text-gradient",
+      },
+      {
+        name: "shadcn",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: truEstate,
+    source_code_link: "https://truestate-retail-sales-system.vercel.app/",
+  },
+  {
+    name: "cyber safe quiz app",
+    description:
+      "created a cyber security quiz app.",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "javascript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "shadcn",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: cybersafe,
+    source_code_link: "https://cyber-safe-quiz.vercel.app/",
+  },
   {
     name: "keySensei",
     description:
